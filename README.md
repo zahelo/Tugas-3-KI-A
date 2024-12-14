@@ -12,4 +12,4 @@ Pengembangan program Percakapan antara dua perangkat dari Tugas 2:
 | Name           | NRP        | Pembagian Tugas   |
 | ---            | ---        | ----------|
 | Almira Fidela Soehartanto Putri | 5025221222|pka_rsa.py dan client.py |
-| Azizah Elok Harvianti | 5025221243 | pka_rsa.py dan server.py|
+| Azizah Elok Harvianti | 5025221243 | pka_rsa.py server.py, dan client.py|
